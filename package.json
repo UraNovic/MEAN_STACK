@@ -1,0 +1,33 @@
+{
+    "name": "mean",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/UraNovic/MEAN_STACK.git"
+    },
+    "keywords": [
+        "NEAN",
+        "Stack",
+        "Angular",
+        "3",
+        "Application"
+    ],
+    "author": "ura",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/UraNovic/MEAN_STACK/issues"
+    },
+    "homepage": "https://github.com/UraNovic/MEAN_STACK#readme",
+    "dependencies": {
+        "express": "^4.16.2",
+        "mongoose": "^5.0.1"
+    },
+    "devDependencies": {
+        "nodemon": "^1.14.11"
+    }
+}
